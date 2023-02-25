@@ -5,7 +5,6 @@ go 1.13
 require (
 	cloud.google.com/go/storage v1.10.0
 	github.com/agext/levenshtein v1.2.3 // indirect
-	github.com/apparentlymart/go-textseg/v12 v12.0.0 // indirect
 	github.com/aws/aws-sdk-go v1.37.7
 	github.com/creack/pty v1.1.11
 	github.com/fatih/structs v1.1.0
@@ -29,6 +28,6 @@ require (
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
 	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
-	golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f
+	golang.org/x/sys v0.1.0
 	google.golang.org/api v0.35.0
 )
